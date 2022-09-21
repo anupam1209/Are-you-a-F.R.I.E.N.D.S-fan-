@@ -1,3 +1,6 @@
 # Are-you-a-F.R.I.E.N.D.S-fan?
-This app is an assignment for first week of neogcamp, a quiz on F.R.I.E.N.D.S.
-Do you know F.R.I.E.N.D.S? Let's play a quiz and see.
+A node.js quiz game on sitcom F.R.I.E.N.D.S.
+Hosted on Repl.it
+
+npm packages used-
+1. readlineSync
